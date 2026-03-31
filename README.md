@@ -53,14 +53,16 @@ The project compares classical machine learning models, deep learning architectu
 
 ## Project Structure
 
+```
 toxic-comment-classification/
-├── notebooks/ # experiments and full pipeline
-├── src/ # preprocessing, models, training scripts
-├── figures/ # visualizations
-├── report/ # full project report (PDF)
-├── data/ # dataset instructions (no raw data included)
+├── notebooks/        # experiments and full pipeline
+├── src/              # preprocessing, models, training scripts
+├── figures/          # visualizations
+├── report/           # full project report (PDF)
+├── data/             # dataset instructions (no raw data included)
 ├── README.md
 └── requirements.txt
+```
 
 
 
