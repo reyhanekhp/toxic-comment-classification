@@ -87,7 +87,7 @@ Download the dataset and place it in the `data/` directory before running the co
 3. Run:
     jupyter notebook notebooks/G9_Toxic_comments.ipynb
 
-Notes
+## Notes
 Accuracy is not used due to class imbalance
 Evaluation is based on ROC-AUC and per-label metrics
 Threshold tuning is critical for detecting rare classes
